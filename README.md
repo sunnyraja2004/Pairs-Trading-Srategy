@@ -1,4 +1,4 @@
-# Pairs-Trading-Project\
+# Pairs-Trading-Project
 The main objective of the project is to explore and implement Pairs Trading, a statistical arbitrage strategy, to profit from the relative mispricing between co-integrated stocks. Specifically, the project aims to:
 
 1) Identify pairs of stocks from major economic sectors whose prices are co-integrated, meaning they move together in the long run.
@@ -46,7 +46,7 @@ Step 4: Trading Strategy Execution
 A function was created to automate the process of buying and selling based on thresholds for opening and closing trades.
 Parameters such as moving average windows, Z-score thresholds, and trade costs were optimized to maximize profit.
 
-Step 5: Results and Conclusion
+## Results and Conclusion
 The co-integrated stock pairs from different sectors were identified, and optimized parameters were used for generating profitable trades.
 The strategy showed a profit in most sectors, but there were risks, such as spreads not returning to zero or changes in co-integration due to market events like mergers or acquisitions.
 
