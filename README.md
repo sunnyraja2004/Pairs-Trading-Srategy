@@ -1,4 +1,5 @@
 # Pairs-Trading-Project
+This Pairs Trading project was completed in collaboration with Kumar Kanishk Singh and Sunny Raja Prasad.
 The main objective of the project is to explore and implement Pairs Trading, a statistical arbitrage strategy, to profit from the relative mispricing between co-integrated stocks. Specifically, the project aims to:
 
 1) Identify pairs of stocks from major economic sectors whose prices are co-integrated, meaning they move together in the long run.
